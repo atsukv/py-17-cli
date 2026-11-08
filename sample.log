@@ -1,0 +1,11 @@
+15 10.4.9.71 GET / 200 148
+18 10.5.3.181 GET / 404 106
+18 198.51.100.149 GET /static/style.css 200 43
+20 10.2.6.102 GET / 403 11
+21 10.0.7.29 GET /api/cart 200 259
+23 10.2.5.66 GET / 200 42
+23 10.4.2.42 GET /api/products 200 9
+23 10.3.9.178 GET /api/products 200 231
+25 10.4.7.43 GET /static/app.js 200 39
+27 198.51.100.50 GET /static/app.js 200 592
+30 10.2.12.139 GET /api/orders 200 37
